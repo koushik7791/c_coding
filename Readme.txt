@@ -1,1 +1,1 @@
-This repository is for c coding practice
+This repository is for c programing
